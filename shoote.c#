@@ -1,5 +1,0 @@
-<c#>
-
-vector3.Didtance(this.transform.postion,target.transform.postion);
-
-this.transform.postion += this.transform.postion + this.transform.forword * 10;  

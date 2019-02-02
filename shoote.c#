@@ -1,0 +1,3 @@
+<c#>
+
+vector3.Didtance(this.transform.postion,target.transform.postion);
